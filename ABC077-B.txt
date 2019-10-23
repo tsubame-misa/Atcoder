@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+  int N;
+  cin >> N;
+  
+  int i = 1;
+  int ans = 0;
+  while(i*i <= N){
+    ans = i;
+    i++;
+  }
+  
+  if(ans == N){
+    cout << N << endl;
+  } else {
+    cout << ans*ans << endl;
+  }
+}
+    

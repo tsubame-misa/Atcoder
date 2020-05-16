@@ -1,3 +1,4 @@
+import heapq
 n = int(input())
 # query = [list(map(int, input().split())) for i in range(n)]
 day = [[] for i in range(n)]

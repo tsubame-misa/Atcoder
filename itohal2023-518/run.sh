@@ -1,0 +1,1 @@
+cat in.txt | python T2.py > result.txt

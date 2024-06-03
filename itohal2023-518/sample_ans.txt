@@ -1,0 +1,2440 @@
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 811228 870733 pugecrth
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 870733 870733 pugecrth
+AUCTION_FINISHED: 2023-01-03T17:58 zwcpdfsct 870733 870733 pugecrth
+BID: the bid is lower than the minimum price
+BID: 427639 427639 ciqckwynah
+AUCTION_FINISHED: 2023-01-04T04:38 rccgytmmh 427639 427639 ciqckwynah
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 492600 901226 ui
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 945157 945157 zizjultr
+AUCTION_FINISHED: 2023-01-08T07:20 wslimhxp 945157 945157 zizjultr
+BID: the bid is lower than the minimum price
+BID: 662656 662656 fjipzujh
+AUCTION_FINISHED: 2023-01-08T15:25 z 662656 662656 fjipzujh
+BID: the bid is lower than the minimum price
+BID: 746199 901226 ui
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 686844 686844 johgpff
+AUCTION_FINISHED: 2023-01-10T20:59 hifyqdctm 686844 686844 johgpff
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 761364 901226 ui
+BID: 884286 896522 eefhbmst
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 414042 833191 epyy
+BID: 584149 810150 jmzsglyg
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 901226 901226 ui
+AUCTION_FINISHED: 2023-01-16T00:56 lgovscxs 901226 901226 ui
+SELL: accepted
+BID: 896522 896522 eefhbmst
+AUCTION_FINISHED: 2023-01-16T09:33 zsdnysgfkj 896522 896522 eefhbmst
+BID: 344170 945976 anicnbnkc
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 70351 394762 znkqohzzsh
+SELL: accepted
+SELL: accepted
+BID: 833191 833191 epyy
+AUCTION_FINISHED: 2023-01-20T04:42 ehhznpbzb 833191 833191 epyy
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 540523 540523 lgxffupnmr
+AUCTION_FINISHED: 2023-01-21T05:25 nqtdkbgkq 540523 540523 lgxffupnmr
+BID: 531808 722288 tjbnnpqe
+BID: 562406 671665 gkqtlrtt
+BID: 560404 722288 tjbnnpqe
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 881869 881869 b
+AUCTION_FINISHED: 2023-01-22T20:38 hkbxeexo 881869 881869 b
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 528202 612119 bwxvntvpen
+SELL: accepted
+BID: 297226 543412 vnjqfvuodq
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 529079 774899 whf
+SELL: accepted
+BID: 592771 886487 xsgudoij
+BID: 906106 945976 anicnbnkc
+SELL: accepted
+BID: 712143 886487 xsgudoij
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 810150 810150 jmzsglyg
+AUCTION_FINISHED: 2023-01-28T10:45 hzzkoavab 810150 810150 jmzsglyg
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 613912 868924 rcttchqepu
+BID: 909670 924001 fulhqlhjy
+SELL: accepted
+SELL: accepted
+BID: 922051 945976 anicnbnkc
+BID: 487138 487138 nvkmk
+AUCTION_FINISHED: 2023-01-30T12:34 lk 487138 487138 nvkmk
+BID: 815625 868924 rcttchqepu
+BID: the bid is lower than the minimum price
+BID: 390239 543412 vnjqfvuodq
+SELL: accepted
+BID: 102191 593819 tyyl
+BID: the bid is lower than the minimum price
+BID: 400386 930014 vzkgasw
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-02-01T00:29 mulfohoxzn - 934571 -
+BID: 945976 945976 anicnbnkc
+AUCTION_FINISHED: 2023-02-01T03:33 hrujamrc 945976 945976 anicnbnkc
+BID: 671665 671665 gkqtlrtt
+AUCTION_FINISHED: 2023-02-01T06:47 flubpjgnu 671665 671665 gkqtlrtt
+SELL: accepted
+BID: 737370 737370 jgjwibsgk
+AUCTION_FINISHED: 2023-02-01T10:06 elxs 737370 737370 jgjwibsgk
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 924001 924001 fulhqlhjy
+AUCTION_FINISHED: 2023-02-03T09:36 zhvhctqbty 924001 924001 fulhqlhjy
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 583068 583068 gtmfdsprj
+AUCTION_FINISHED: 2023-02-04T20:20 opgpwbhs 583068 583068 gtmfdsprj
+BID: 593819 593819 tyyl
+AUCTION_FINISHED: 2023-02-04T20:28 zkexvo 593819 593819 tyyl
+BID: 499956 499956 osruqjup
+AUCTION_FINISHED: 2023-02-04T20:38 agkwggibj 499956 499956 osruqjup
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 822174 829012 itmbwbkksf
+BID: 678683 827629 fpahkkvo
+SELL: accepted
+BID: 89412 89412 ij
+AUCTION_FINISHED: 2023-02-06T01:28 tsqb 89412 89412 ij
+BID: 915552 915552 vz
+AUCTION_FINISHED: 2023-02-06T04:48 syaiutfl 915552 915552 vz
+BID: 444747 716260 upaedx
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 682715 930014 vzkgasw
+SELL: accepted
+BID: 966239 992014 hgjlymqe
+BID: 394762 394762 znkqohzzsh
+AUCTION_FINISHED: 2023-02-07T14:25 dnfiqgyds 394762 394762 znkqohzzsh
+SELL: accepted
+SELL: accepted
+BID: 537611 612119 bwxvntvpen
+BID: 759833 984710 htdosjzed
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 543412 543412 vnjqfvuodq
+AUCTION_FINISHED: 2023-02-09T09:43 cn 543412 543412 vnjqfvuodq
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 488785 488785 kdqesaoyc
+AUCTION_FINISHED: 2023-02-10T20:18 kfnxivynf 488785 488785 kdqesaoyc
+BID: the bid is lower than the minimum price
+BID: 734501 835532 yj
+BID: the bid is lower than the minimum price
+BID: 630078 872277 lczi
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 886487 886487 xsgudoij
+AUCTION_FINISHED: 2023-02-13T00:19 ovyixqrcy 886487 886487 xsgudoij
+BID: 571909 707671 pthx
+BID: 157873 693716 wevwxf
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 897014 897014 xykoiwkz
+AUCTION_FINISHED: 2023-02-14T02:05 oumay 897014 897014 xykoiwkz
+BID: the bid is lower than the minimum price
+BID: 705015 787896 vzkqbidg
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 781354 872277 lczi
+BID: 743779 835532 yj
+BID: 584605 774899 whf
+SELL: accepted
+BID: 838724 838724 hclmwfa
+AUCTION_FINISHED: 2023-02-15T22:00 ecuwixez 838724 838724 hclmwfa
+SELL: accepted
+BID: 617000 617000 xyulmwdut
+AUCTION_FINISHED: 2023-02-16T05:35 lwdsoygz 617000 617000 xyulmwdut
+SELL: accepted
+AUCTION_FINISHED: 2023-02-16T21:58 ykqsv - 862594 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-02-18T15:42 tsr 444747 716260 upaedx
+BID: 787896 787896 vzkqbidg
+AUCTION_FINISHED: 2023-02-18T20:14 rez 787896 787896 vzkqbidg
+SELL: accepted
+SELL: accepted
+BID: 833233 930014 vzkgasw
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 226898 935999 zkate
+AUCTION_FINISHED: 2023-02-20T05:31 evxsmg - 679095 -
+BID: 827629 827629 fpahkkvo
+AUCTION_FINISHED: 2023-02-20T16:04 vzviqjeu 827629 827629 fpahkkvo
+BID: the bid is lower than the minimum price
+BID: 878666 878666 rwyjuy
+AUCTION_FINISHED: 2023-02-21T05:41 oawklpt 878666 878666 rwyjuy
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-02-21T06:18 fzs - 453869 -
+BID: 641179 932245 usxunkdn
+SELL: accepted
+BID: 574482 612119 bwxvntvpen
+BID: 648659 753863 y
+BID: 682464 774899 whf
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-02-22T09:39 geselspgw - 923354 -
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-02-23T10:35 qmtkiwov 574482 612119 bwxvntvpen
+SELL: accepted
+BID: 738815 738815 sndsbjlsg
+AUCTION_FINISHED: 2023-02-23T22:13 yszhbjfkzb 738815 738815 sndsbjlsg
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 613510 716879 synaqjtqi
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 594299 745726 fccdffbv
+BID: 973855 992014 hgjlymqe
+BID: 458604 935999 zkate
+BID: 939600 973247 dbhlksxqhc
+SELL: accepted
+SELL: accepted
+BID: 809198 984710 htdosjzed
+BID: the bid is lower than the minimum price
+BID: 802669 932245 usxunkdn
+SELL: accepted
+BID: 753863 753863 y
+AUCTION_FINISHED: 2023-02-27T21:35 kunac 753863 753863 y
+BID: 829012 829012 itmbwbkksf
+AUCTION_FINISHED: 2023-02-27T21:36 fkelvjdk 829012 829012 itmbwbkksf
+SELL: accepted
+BID: 716879 716879 synaqjtqi
+AUCTION_FINISHED: 2023-02-28T01:50 cagkjcivn 716879 716879 synaqjtqi
+BID: 992014 992014 hgjlymqe
+AUCTION_FINISHED: 2023-02-28T07:24 fvlhfxbcsl 992014 992014 hgjlymqe
+SELL: accepted
+SELL: accepted
+BID: 932245 932245 usxunkdn
+AUCTION_FINISHED: 2023-02-28T12:21 zsuyavxetj 932245 932245 usxunkdn
+AUCTION_FINISHED: 2023-02-28T19:16 myuzflviq 815625 868924 rcttchqepu
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 855642 855642 vto
+AUCTION_FINISHED: 2023-03-01T22:55 dxid 855642 855642 vto
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 229980 693716 wevwxf
+AUCTION_FINISHED: 2023-03-04T21:50 qprpthocx - 441391 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 774899 774899 whf
+AUCTION_FINISHED: 2023-03-05T13:22 zwflefb 774899 774899 whf
+SELL: accepted
+AUCTION_FINISHED: 2023-03-05T16:03 v - 915021 -
+BID: 595370 983878 mmnrvwzmqj
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 619619 619619 kraeoyjlxu
+AUCTION_FINISHED: 2023-03-06T15:22 pvas 619619 619619 kraeoyjlxu
+BID: the bid is lower than the minimum price
+BID: 286106 336249 nkccwfiw
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 786045 804265 awclgzgfe
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 91191 280063 df
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 944882 944882 uxwrly
+AUCTION_FINISHED: 2023-03-09T09:19 kzyxeguk 944882 944882 uxwrly
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 707520 959843 frsagrpw
+BID: 747885 747885 xevixkmry
+AUCTION_FINISHED: 2023-03-10T05:47 fyzbc 747885 747885 xevixkmry
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-03-11T18:14 mcotccxlkz - 994235 -
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 405738 905499 ckvblujoc
+SELL: accepted
+BID: 410541 630923 xpi
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 515960 963334 dkhewbyt
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 682423 717616 hvtmqmus
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 450411 861082 wdabjrteu
+SELL: accepted
+BID: 501746 501746 ehbatmfadu
+AUCTION_FINISHED: 2023-03-18T07:46 mlvrzvarc 501746 501746 ehbatmfadu
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 244418 878601 olniv
+BID: 847849 907342 adthegv
+BID: 958572 958572 iqdopklicu
+AUCTION_FINISHED: 2023-03-18T17:15 ranqrd 958572 958572 iqdopklicu
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 882977 954569 gihehqlwoz
+AUCTION_FINISHED: 2023-03-20T06:50 lrimycslqu 781354 872277 lczi
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-03-21T03:09 aa 515960 963334 dkhewbyt
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 711963 722288 tjbnnpqe
+BID: 958534 973247 dbhlksxqhc
+BID: 827531 959843 frsagrpw
+SELL: accepted
+BID: 479845 941515 bsqiaofx
+BID: 458250 458250 jezvbfhl
+AUCTION_FINISHED: 2023-03-22T19:27 ehfhk 458250 458250 jezvbfhl
+BID: 764797 835532 yj
+BID: the bid is lower than the minimum price
+BID: 873666 919456 nnwonzcgge
+SELL: accepted
+AUCTION_FINISHED: 2023-03-23T06:38 fprjzyngec - 151045 -
+BID: 889079 935999 zkate
+BID: 307227 307227 wmqbecdggl
+AUCTION_FINISHED: 2023-03-23T20:21 ygauc 307227 307227 wmqbecdggl
+SELL: accepted
+AUCTION_FINISHED: 2023-03-24T10:31 zjglaprb - 976490 -
+AUCTION_FINISHED: 2023-03-24T12:42 qeby - 606159 -
+SELL: accepted
+BID: 971097 971097 ljchdhqkgj
+AUCTION_FINISHED: 2023-03-24T18:38 cfrvwsjkdi 971097 971097 ljchdhqkgj
+BID: 474723 587315 zrkvkgfyu
+BID: 791037 929724 tzwlqlwqe
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-03-25T19:29 sls 786045 804265 awclgzgfe
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 872773 983878 mmnrvwzmqj
+BID: 587315 587315 zrkvkgfyu
+AUCTION_FINISHED: 2023-03-27T03:17 udlyfarhn 587315 587315 zrkvkgfyu
+BID: 403998 403998 ostommcn
+AUCTION_FINISHED: 2023-03-27T05:56 iewp 403998 403998 ostommcn
+SELL: accepted
+BID: 630923 630923 xpi
+AUCTION_FINISHED: 2023-03-27T07:59 kclbe 630923 630923 xpi
+BID: 589863 707671 pthx
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 884474 928865 itxso
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 914758 954000 vzycqrxy
+SELL: accepted
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-03-29T18:54 lefxypeepi - 928240 -
+AUCTION_FINISHED: 2023-03-30T01:20 babrilmbzw 873666 919456 nnwonzcgge
+SELL: accepted
+SELL: accepted
+BID: 659293 707671 pthx
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-04-01T05:14 s - 995409 -
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 121403 121403 snicqgtngd
+AUCTION_FINISHED: 2023-04-02T08:06 rkkdbirwvv 121403 121403 snicqgtngd
+BID: the bid is lower than the minimum price
+BID: 440401 440401 outfhbxozi
+AUCTION_FINISHED: 2023-04-02T17:22 oqczijyzn 440401 440401 outfhbxozi
+BID: the bid is lower than the minimum price
+BID: 626786 905499 ckvblujoc
+SELL: accepted
+AUCTION_FINISHED: 2023-04-03T16:17 knvjkcbxg - 993541 -
+BID: 604627 632669 wrziyque
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 424526 432228 yurijmbx
+BID: 256380 523803 szpnonbjwz
+SELL: accepted
+SELL: accepted
+BID: 891417 930014 vzkgasw
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 606794 606794 ezlfwmvp
+AUCTION_FINISHED: 2023-04-06T03:01 ibequuviyy 606794 606794 ezlfwmvp
+BID: 854503 934481 pgbdtvqgc
+BID: 724940 876014 lqdbrifv
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 678959 733198 sxijbznekv
+BID: 693716 693716 wevwxf
+AUCTION_FINISHED: 2023-04-07T21:33 fjmsh 693716 693716 wevwxf
+BID: 150839 150839 qiuhqc
+AUCTION_FINISHED: 2023-04-08T02:31 cokiihrkwt 150839 150839 qiuhqc
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 907342 907342 adthegv
+AUCTION_FINISHED: 2023-04-08T10:43 rpasap 907342 907342 adthegv
+BID: 280063 280063 df
+AUCTION_FINISHED: 2023-04-08T10:48 dyzinmsim 280063 280063 df
+SELL: accepted
+SELL: accepted
+BID: 850576 878196 xzzwazwra
+BID: 577420 605610 jwpba
+AUCTION_FINISHED: 2023-04-09T01:57 ismqhrltm - 696045 -
+SELL: accepted
+AUCTION_FINISHED: 2023-04-09T07:02 chtvrxfapk - 979585 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 959456 959843 frsagrpw
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-04-09T14:41 ygspekkz - 918487 -
+SELL: accepted
+BID: 353815 448077 mjrrioii
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 733198 733198 sxijbznekv
+AUCTION_FINISHED: 2023-04-10T14:48 pptlyx 733198 733198 sxijbznekv
+BID: the bid is lower than the minimum price
+BID: 116796 116796 amsaelxtm
+AUCTION_FINISHED: 2023-04-10T18:50 tblizndxd 116796 116796 amsaelxtm
+BID: 890701 890701 xbjpsl
+AUCTION_FINISHED: 2023-04-10T19:08 jublrmpojm 890701 890701 xbjpsl
+SELL: accepted
+BID: 428880 791362 y
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 605610 605610 jwpba
+AUCTION_FINISHED: 2023-04-11T00:24 nbosidtwtn 605610 605610 jwpba
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 745726 745726 fccdffbv
+AUCTION_FINISHED: 2023-04-12T06:54 osuijrky 745726 745726 fccdffbv
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-04-12T10:58 rljsvkqxoq - 999910 -
+SELL: accepted
+BID: 906767 930014 vzkgasw
+SELL: accepted
+BID: 480664 480664 lswqk
+AUCTION_FINISHED: 2023-04-13T17:42 tljrojctry 480664 480664 lswqk
+SELL: accepted
+SELL: accepted
+BID: 281240 573522 g
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 754352 754352 keaxorrsu
+AUCTION_FINISHED: 2023-04-14T19:21 ksejvgyoew 754352 754352 keaxorrsu
+BID: 847383 847383 mnmjarlxb
+AUCTION_FINISHED: 2023-04-15T05:01 xisksjahh 847383 847383 mnmjarlxb
+BID: 929724 929724 tzwlqlwqe
+AUCTION_FINISHED: 2023-04-15T05:16 cdqoloxpor 929724 929724 tzwlqlwqe
+SELL: accepted
+SELL: accepted
+BID: 921392 984710 htdosjzed
+BID: 706951 819132 jotdrdkkj
+BID: 861082 861082 wdabjrteu
+AUCTION_FINISHED: 2023-04-17T02:50 liiqinlfyo 861082 861082 wdabjrteu
+SELL: accepted
+BID: 655808 777340 bhsqz
+SELL: accepted
+BID: 828405 828405 cmsvjupkpl
+AUCTION_FINISHED: 2023-04-18T02:41 psoznvgzsv 828405 828405 cmsvjupkpl
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 940632 984710 htdosjzed
+AUCTION_FINISHED: 2023-04-18T14:20 cgvq - 993940 -
+BID: 791362 791362 y
+AUCTION_FINISHED: 2023-04-18T15:34 ifs 791362 791362 y
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 935999 935999 zkate
+AUCTION_FINISHED: 2023-04-19T16:13 bfqcackvwq 935999 935999 zkate
+SELL: accepted
+AUCTION_FINISHED: 2023-04-19T18:40 kz - 852992 -
+BID: 517567 573522 g
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-04-20T12:46 bvukimsp 854503 934481 pgbdtvqgc
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-04-21T20:15 itp - 998989 -
+SELL: accepted
+SELL: accepted
+BID: 707671 707671 pthx
+AUCTION_FINISHED: 2023-04-22T20:34 unodccdo 707671 707671 pthx
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-04-23T17:54 tcnhcvqk - 893138 -
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 716636 744547 iltlbllef
+BID: 117797 117797 poogrpxkql
+AUCTION_FINISHED: 2023-04-25T14:11 zxlq 117797 117797 poogrpxkql
+BID: 959843 959843 frsagrpw
+AUCTION_FINISHED: 2023-04-25T15:04 gr 959843 959843 frsagrpw
+BID: 171324 265624 zbzvufmp
+SELL: accepted
+BID: 632669 632669 wrziyque
+AUCTION_FINISHED: 2023-04-26T04:23 tabkmzbews 632669 632669 wrziyque
+BID: the bid is lower than the minimum price
+BID: 689459 689459 ouafwntta
+AUCTION_FINISHED: 2023-04-26T21:22 zwvreunfql 689459 689459 ouafwntta
+SELL: accepted
+BID: 972212 973247 dbhlksxqhc
+BID: the bid is lower than the minimum price
+BID: 957259 984710 htdosjzed
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-04-28T15:40 rienbveldw - 885118 -
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 850386 866181 vnojxsqo
+BID: 981671 984710 htdosjzed
+BID: 461721 656286 qkbeesqdgt
+SELL: accepted
+BID: 717616 717616 hvtmqmus
+AUCTION_FINISHED: 2023-04-30T18:40 qlatutekm 717616 717616 hvtmqmus
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 973247 973247 dbhlksxqhc
+AUCTION_FINISHED: 2023-04-30T21:29 ziqtwyzkz 973247 973247 dbhlksxqhc
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 432228 432228 yurijmbx
+AUCTION_FINISHED: 2023-05-02T17:35 jmy 432228 432228 yurijmbx
+SELL: accepted
+BID: 634219 634219 tjdbbevmi
+AUCTION_FINISHED: 2023-05-02T21:50 kxqckzaij 634219 634219 tjdbbevmi
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 595036 595036 ylg
+AUCTION_FINISHED: 2023-05-04T03:41 gjrwofddwz 595036 595036 ylg
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 639498 676142 uf
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-05-07T14:05 hakoexfvhx - 990321 -
+BID: 448077 448077 mjrrioii
+AUCTION_FINISHED: 2023-05-07T15:16 nbosapgk 448077 448077 mjrrioii
+BID: the bid is lower than the minimum price
+BID: 984710 984710 htdosjzed
+AUCTION_FINISHED: 2023-05-07T20:05 ju 984710 984710 htdosjzed
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-05-07T21:29 wzafgnxyq - 322128 -
+BID: 767986 905499 ckvblujoc
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 618330 618330 dwzwflwhag
+AUCTION_FINISHED: 2023-05-08T10:14 qtidiljef 618330 618330 dwzwflwhag
+BID: 781049 810121 bwtvjac
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-05-08T23:09 dszrkhykwd - 989850 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-05-09T19:21 jtusliehia 655808 777340 bhsqz
+SELL: accepted
+SELL: accepted
+BID: 526895 526895 dufxixo
+AUCTION_FINISHED: 2023-05-10T03:54 nutzqsmyfc 526895 526895 dufxixo
+BID: 835532 835532 yj
+AUCTION_FINISHED: 2023-05-10T04:58 zqxoivf 835532 835532 yj
+BID: the bid is lower than the minimum price
+BID: 382195 878601 olniv
+BID: 819132 819132 jotdrdkkj
+AUCTION_FINISHED: 2023-05-10T22:35 otjpavay 819132 819132 jotdrdkkj
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 732936 732936 tg
+AUCTION_FINISHED: 2023-05-11T05:13 uyfyueetsy 732936 732936 tg
+BID: 744547 744547 iltlbllef
+AUCTION_FINISHED: 2023-05-11T07:28 twnmc 744547 744547 iltlbllef
+SELL: accepted
+BID: 774273 774273 bxvcdmglyw
+AUCTION_FINISHED: 2023-05-12T08:39 qys 774273 774273 bxvcdmglyw
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-05-14T02:54 atywrtjlbv - 433823 -
+BID: 539613 648856 amadupqhgg
+SELL: accepted
+SELL: accepted
+BID: 520558 520558 gauhditf
+AUCTION_FINISHED: 2023-05-14T16:32 jfyeqvkis 520558 520558 gauhditf
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 523803 523803 szpnonbjwz
+AUCTION_FINISHED: 2023-05-15T18:03 xikqmmsbi 523803 523803 szpnonbjwz
+BID: 876014 876014 lqdbrifv
+AUCTION_FINISHED: 2023-05-16T05:56 tttrlvded 876014 876014 lqdbrifv
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-05-16T11:11 msjqajma 882977 954569 gihehqlwoz
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 130898 130898 serxmtln
+AUCTION_FINISHED: 2023-05-17T00:44 dpjllcxa 130898 130898 serxmtln
+BID: 951686 995903 dgsjvfitlm
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 543473 812504 tbviatppnf
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-05-18T04:39 bjr - 329513 -
+BID: the bid is lower than the minimum price
+BID: 915138 915138 xsxoyetq
+AUCTION_FINISHED: 2023-05-18T06:39 lwzemzwsn 915138 915138 xsxoyetq
+SELL: accepted
+AUCTION_FINISHED: 2023-05-18T13:56 wnzghrmqa - 722285 -
+BID: the bid is lower than the minimum price
+BID: 437191 437191 bkelkmvy
+AUCTION_FINISHED: 2023-05-19T07:00 tbxcpjqabv 437191 437191 bkelkmvy
+BID: 643458 877952 hbcuatual
+AUCTION_FINISHED: 2023-05-19T09:07 zfrsgpte - 750190 -
+BID: 656286 656286 qkbeesqdgt
+AUCTION_FINISHED: 2023-05-19T10:06 sqrirm 656286 656286 qkbeesqdgt
+BID: 377247 574814 cdtsbfroq
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-05-20T19:19 oimgmdngs - 741951 -
+BID: the bid is lower than the minimum price
+BID: 957490 995678 tepyyoma
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 480739 480739 ooid
+AUCTION_FINISHED: 2023-05-21T21:36 tjkpcyvk 480739 480739 ooid
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 987596 995903 dgsjvfitlm
+SELL: accepted
+BID: 453300 453300 xi
+AUCTION_FINISHED: 2023-05-22T13:07 zgqubhtmv 453300 453300 xi
+BID: 456256 456256 lwjzwbac
+AUCTION_FINISHED: 2023-05-22T16:39 yfqhjioalj 456256 456256 lwjzwbac
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-05-23T07:33 oks - 961708 -
+BID: 977018 995678 tepyyoma
+SELL: accepted
+BID: 722288 722288 tjbnnpqe
+AUCTION_FINISHED: 2023-05-23T21:57 frdztgzbjh 722288 722288 tjbnnpqe
+AUCTION_FINISHED: 2023-05-24T00:54 wuohsnajw 171324 265624 zbzvufmp
+BID: 866916 905499 ckvblujoc
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 413237 933727 ukfvnmfjzy
+SELL: accepted
+BID: 548642 632076 ufcxrfrx
+SELL: accepted
+BID: 489663 489663 ysniedtdoa
+AUCTION_FINISHED: 2023-05-25T06:50 scfsi 489663 489663 ysniedtdoa
+SELL: accepted
+AUCTION_FINISHED: 2023-05-25T12:10 yrbrlq - 697004 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 647090 977298 rzbc
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 470374 470374 rzwss
+AUCTION_FINISHED: 2023-05-26T20:17 cjjgxwxg 470374 470374 rzwss
+BID: the bid is lower than the minimum price
+BID: 702798 702798 jdnwfuagyx
+AUCTION_FINISHED: 2023-05-27T01:53 vioagrzg 702798 702798 jdnwfuagyx
+SELL: accepted
+BID: 718938 941515 bsqiaofx
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 335476 335476 rpbb
+AUCTION_FINISHED: 2023-05-28T16:49 cbwgushdzk 335476 335476 rpbb
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 453346 933727 ukfvnmfjzy
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-05-29T23:09 obmktxbju - 936175 -
+BID: 159923 159923 kzyqa
+AUCTION_FINISHED: 2023-05-30T06:21 klnpxwtqy 159923 159923 kzyqa
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 632076 632076 ufcxrfrx
+AUCTION_FINISHED: 2023-05-30T10:38 qjpclltnvb 632076 632076 ufcxrfrx
+BID: 661817 788097 ydbjyabx
+BID: 686572 686572 axcuv
+AUCTION_FINISHED: 2023-05-30T15:12 i 686572 686572 axcuv
+BID: 810121 810121 bwtvjac
+AUCTION_FINISHED: 2023-05-30T18:33 xksozvfg 810121 810121 bwtvjac
+SELL: accepted
+BID: 454673 454673 xlhcudoj
+AUCTION_FINISHED: 2023-05-30T23:43 yogyoryk 454673 454673 xlhcudoj
+SELL: accepted
+BID: 736380 905299 cvgf
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 928865 928865 itxso
+AUCTION_FINISHED: 2023-06-02T01:58 gtgxo 928865 928865 itxso
+AUCTION_FINISHED: 2023-06-02T02:22 jxjmnafy - 352763 -
+AUCTION_FINISHED: 2023-06-02T07:32 hxsmbrenev 906767 930014 vzkgasw
+AUCTION_FINISHED: 2023-06-02T08:59 yakyejwltd - 909667 -
+BID: 877952 877952 hbcuatual
+AUCTION_FINISHED: 2023-06-02T16:04 c 877952 877952 hbcuatual
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 558561 998063 hafrcopmu
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-06-05T04:55 sgixmrnkzc - 845240 -
+BID: 815855 975548 gqybmaei
+SELL: accepted
+BID: 866181 866181 vnojxsqo
+AUCTION_FINISHED: 2023-06-05T15:31 oqhmkhuba 866181 866181 vnojxsqo
+SELL: accepted
+AUCTION_FINISHED: 2023-06-05T16:00 qtsngudcu - 711960 -
+BID: the bid is lower than the minimum price
+BID: 851161 977298 rzbc
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-06-06T06:38 mawkhqry - 924570 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 647982 738309 vajyyeplaf
+BID: 741876 765008 sph
+BID: 527307 878601 olniv
+BID: the bid is lower than the minimum price
+BID: 795386 795386 domjxbbxzm
+AUCTION_FINISHED: 2023-06-07T06:32 aztbiubl 795386 795386 domjxbbxzm
+BID: 983878 983878 mmnrvwzmqj
+AUCTION_FINISHED: 2023-06-07T07:28 fj 983878 983878 mmnrvwzmqj
+BID: 645098 645098 ayqcbeyw
+AUCTION_FINISHED: 2023-06-07T15:07 efxcn 645098 645098 ayqcbeyw
+SELL: accepted
+AUCTION_FINISHED: 2023-06-07T21:07 rabkcenb - 994854 -
+AUCTION_FINISHED: 2023-06-07T21:52 jo - 999597 -
+SELL: accepted
+BID: 730243 998063 hafrcopmu
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 374361 374361 klfzmdooy
+AUCTION_FINISHED: 2023-06-09T01:03 owzbscmdb 374361 374361 klfzmdooy
+AUCTION_FINISHED: 2023-06-09T04:52 pujfyqihu - 997055 -
+BID: 925946 925946 kcwkjhfklu
+AUCTION_FINISHED: 2023-06-09T05:35 haprtberx 925946 925946 kcwkjhfklu
+BID: the bid is lower than the minimum price
+BID: 847113 998063 hafrcopmu
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-06-10T08:40 zckexvfgci - 868193 -
+SELL: accepted
+AUCTION_FINISHED: 2023-06-10T19:32 foyslcnyk - 758346 -
+BID: the bid is lower than the minimum price
+BID: 265812 265812 xiyyjqrl
+AUCTION_FINISHED: 2023-06-10T23:03 pi 265812 265812 xiyyjqrl
+SELL: accepted
+BID: 676843 902454 dbvzbnnze
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 574814 574814 cdtsbfroq
+AUCTION_FINISHED: 2023-06-11T14:27 vvzhebtqho 574814 574814 cdtsbfroq
+AUCTION_FINISHED: 2023-06-11T15:18 yzocxxfxji - 636217 -
+BID: 513288 966627 ovjpichyi
+BID: the bid is lower than the minimum price
+BID: 471376 553421 ljpsprkw
+SELL: accepted
+AUCTION_FINISHED: 2023-06-12T05:29 pjud - 667162 -
+SELL: accepted
+AUCTION_FINISHED: 2023-06-12T11:34 dduwaojnyq - 985487 -
+AUCTION_FINISHED: 2023-06-12T12:00 hvmkmyzb - 916375 -
+BID: 864303 917464 bgyubvlf
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 916853 954000 vzycqrxy
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-06-13T16:18 qfcpt 741876 765008 sph
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 949452 949452 cxewntswzb
+AUCTION_FINISHED: 2023-06-14T18:37 ojxciiai 949452 949452 cxewntswzb
+AUCTION_FINISHED: 2023-06-15T06:00 dp 639498 676142 uf
+SELL: accepted
+BID: 573522 573522 g
+AUCTION_FINISHED: 2023-06-15T17:07 hmasaybl 573522 573522 g
+AUCTION_FINISHED: 2023-06-15T19:08 kqlzpmrta - 307878 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 895984 941515 bsqiaofx
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 992734 995678 tepyyoma
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 913939 956416 ttatklwjs
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-06-18T18:50 juwkubnvg - 666027 -
+SELL: accepted
+AUCTION_FINISHED: 2023-06-18T23:10 lwsqwocahi - 829718 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 118343 197082 yvpyrwpeza
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 635737 635737 alxslvmn
+AUCTION_FINISHED: 2023-06-19T14:27 yggpivvwh 635737 635737 alxslvmn
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 928970 977298 rzbc
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 882920 917464 bgyubvlf
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 765399 765399 hqrmtish
+AUCTION_FINISHED: 2023-06-22T09:07 vlunq 765399 765399 hqrmtish
+SELL: accepted
+BID: 706983 706983 pftloheyq
+AUCTION_FINISHED: 2023-06-22T13:53 lgxjxxd 706983 706983 pftloheyq
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 647040 647040 taeoeuvib
+AUCTION_FINISHED: 2023-06-23T21:33 trjdn 647040 647040 taeoeuvib
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 625222 625222 pmhngt
+AUCTION_FINISHED: 2023-06-25T17:41 jdgzkrjoht 625222 625222 pmhngt
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 716313 778477 ywcjxjva
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-06-26T20:39 u 676843 902454 dbvzbnnze
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-06-27T13:19 sxb - 996096 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 808354 947696 knopxkpr
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 622087 622087 jkeqph
+AUCTION_FINISHED: 2023-06-28T00:26 ubiwjeon 622087 622087 jkeqph
+BID: 577279 966071 vumdiiapht
+SELL: accepted
+AUCTION_FINISHED: 2023-06-28T04:05 mpxqyqmkl - 973503 -
+AUCTION_FINISHED: 2023-06-28T06:55 dpvohxmm - 981948 -
+SELL: accepted
+BID: 978552 988201 soxtqrui
+AUCTION_FINISHED: 2023-06-28T13:59 vqtmktd - 893097 -
+BID: 418665 978594 inmvwrtyj
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-06-29T06:24 hvejrtorws - 835349 -
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-06-30T20:09 zdnd 577279 966071 vumdiiapht
+BID: 917065 917065 t
+AUCTION_FINISHED: 2023-06-30T21:20 oczqeseo 917065 917065 t
+AUCTION_FINISHED: 2023-06-30T22:10 gwmwdxjuuo 453346 933727 ukfvnmfjzy
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 751011 995408 nwfpt
+BID: 565269 565269 rcbndwlqpj
+AUCTION_FINISHED: 2023-07-01T10:10 eaznxorbjs 565269 565269 rcbndwlqpj
+BID: 722185 778477 ywcjxjva
+SELL: accepted
+AUCTION_FINISHED: 2023-07-01T21:16 sycdvpzqir 513288 966627 ovjpichyi
+AUCTION_FINISHED: 2023-07-01T22:07 vupahkcwgt - 880233 -
+SELL: accepted
+AUCTION_FINISHED: 2023-07-02T03:24 rvttlzjh - 728616 -
+AUCTION_FINISHED: 2023-07-02T09:15 nrlgbrf 539613 648856 amadupqhgg
+BID: 570001 978594 inmvwrtyj
+SELL: accepted
+AUCTION_FINISHED: 2023-07-03T03:09 rbarmzdm - 833329 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 855330 909247 rytgeeint
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 550890 550890 pvxkottlx
+AUCTION_FINISHED: 2023-07-04T20:58 plbjbehqy 550890 550890 pvxkottlx
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 508305 508305 mpvqyfbbnc
+AUCTION_FINISHED: 2023-07-05T14:34 zqcpal 508305 508305 mpvqyfbbnc
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 566431 946738 ufsghw
+BID: 414503 414503 ekmkplhqas
+AUCTION_FINISHED: 2023-07-06T10:40 rduekft 414503 414503 ekmkplhqas
+BID: 905499 905499 ckvblujoc
+AUCTION_FINISHED: 2023-07-06T17:58 zsrmejytle 905499 905499 ckvblujoc
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-07-07T09:16 ccqytuld - 298528 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-07-07T18:28 ptiruzzd - 936144 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 265614 643044 xeqcthrgqc
+BID: 812504 812504 tbviatppnf
+AUCTION_FINISHED: 2023-07-09T19:58 qooorkvz 812504 812504 tbviatppnf
+AUCTION_FINISHED: 2023-07-10T02:32 zvcsl - 940983 -
+BID: 509137 936924 wtdjnrikgr
+SELL: this item_id is already in use
+BID: 970398 994026 errauibgd
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 988201 988201 soxtqrui
+AUCTION_FINISHED: 2023-07-11T02:45 uphsrbkcdu 988201 988201 soxtqrui
+BID: 767990 767990 avyktccy
+AUCTION_FINISHED: 2023-07-11T13:36 e 767990 767990 avyktccy
+BID: 991077 995903 dgsjvfitlm
+SELL: accepted
+AUCTION_FINISHED: 2023-07-11T21:41 gkcotrto - 877407 -
+BID: 921899 943518 fiqfygurt
+SELL: accepted
+BID: 939813 939813 lenouhp
+AUCTION_FINISHED: 2023-07-12T04:06 xy 939813 939813 lenouhp
+BID: 830239 982865 ylbddgjykc
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 916169 953911 ktwfuijf
+BID: 334598 596034 jortcrxezp
+SELL: accepted
+SELL: accepted
+BID: 643044 643044 xeqcthrgqc
+AUCTION_FINISHED: 2023-07-13T21:22 jfvlywucjh 643044 643044 xeqcthrgqc
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 238062 238062 yc
+AUCTION_FINISHED: 2023-07-14T20:21 mmewvfdrvw 238062 238062 yc
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 895662 895662 fqiihqoyyt
+AUCTION_FINISHED: 2023-07-15T00:27 tjzezormbx 895662 895662 fqiihqoyyt
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 778477 778477 ywcjxjva
+AUCTION_FINISHED: 2023-07-15T19:58 ohdyhbcjgv 778477 778477 ywcjxjva
+BID: 704497 946738 ufsghw
+SELL: accepted
+BID: 956416 956416 ttatklwjs
+AUCTION_FINISHED: 2023-07-16T06:17 sdnykcioz 956416 956416 ttatklwjs
+BID: 814244 982091 az
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-07-16T23:50 bjskoxdd 661817 788097 ydbjyabx
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-07-17T11:35 dzo - 939160 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 909247 909247 rytgeeint
+AUCTION_FINISHED: 2023-07-18T14:15 vmvsqg 909247 909247 rytgeeint
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-07-18T18:13 mscmvcwpy - 993109 -
+AUCTION_FINISHED: 2023-07-19T04:02 ogtzuzrdqg - 999055 -
+AUCTION_FINISHED: 2023-07-19T06:34 mhbuxeiyjp - 808892 -
+AUCTION_FINISHED: 2023-07-19T07:16 mmtsdamnvf - 907342 -
+AUCTION_FINISHED: 2023-07-19T13:01 czxuqvw - 634056 -
+BID: 680279 836186 gacvqqeqmz
+SELL: accepted
+BID: 734112 734112 p
+AUCTION_FINISHED: 2023-07-20T01:33 gkkmysfigj 734112 734112 p
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-07-20T13:39 vggumfdcux - 853139 -
+BID: 634501 634501 zncfydxfsd
+AUCTION_FINISHED: 2023-07-20T14:49 a 634501 634501 zncfydxfsd
+BID: the bid is lower than the minimum price
+BID: 336249 336249 nkccwfiw
+AUCTION_FINISHED: 2023-07-20T16:24 efdokblxk 336249 336249 nkccwfiw
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 941500 941500 ll
+AUCTION_FINISHED: 2023-07-22T05:56 afdotemked 941500 941500 ll
+BID: the bid is lower than the minimum price
+BID: 626212 626212 whpslnwam
+AUCTION_FINISHED: 2023-07-22T21:47 ktr 626212 626212 whpslnwam
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 802936 802936 nhonnnohzk
+AUCTION_FINISHED: 2023-07-23T06:06 karthjxgan 802936 802936 nhonnnohzk
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-07-23T23:09 uscxxapxdz - 822385 -
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 243578 685076 ygoworjtib
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-07-26T23:10 ncckz - 994510 -
+BID: 596034 596034 jortcrxezp
+AUCTION_FINISHED: 2023-07-27T01:18 kcix 596034 596034 jortcrxezp
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 541792 541792 fetraavs
+AUCTION_FINISHED: 2023-07-27T23:03 mldobith 541792 541792 fetraavs
+BID: 991614 994026 errauibgd
+SELL: accepted
+AUCTION_FINISHED: 2023-07-28T07:46 beevuwlvk - 894398 -
+SELL: accepted
+BID: 415510 415510 hqspvxhrg
+AUCTION_FINISHED: 2023-07-28T15:06 lxkvc 415510 415510 hqspvxhrg
+BID: 682578 682578 sovclgavf
+AUCTION_FINISHED: 2023-07-28T23:45 qvehygol 682578 682578 sovclgavf
+BID: 878196 878196 xzzwazwra
+AUCTION_FINISHED: 2023-07-29T19:50 nlwyawxhm 878196 878196 xzzwazwra
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 939213 995408 nwfpt
+SELL: accepted
+AUCTION_FINISHED: 2023-07-30T18:32 fhzwoouoxy - 959243 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 817236 942196 qekjwx
+BID: 553421 553421 ljpsprkw
+AUCTION_FINISHED: 2023-08-01T03:01 ry 553421 553421 ljpsprkw
+BID: 938172 946738 ufsghw
+BID: the bid is lower than the minimum price
+BID: 909062 941515 bsqiaofx
+AUCTION_FINISHED: 2023-08-01T12:09 gcdfahutk - 994763 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 754236 754236 uwiwnojw
+AUCTION_FINISHED: 2023-08-02T00:08 keyjsbhyp 754236 754236 uwiwnojw
+AUCTION_FINISHED: 2023-08-02T03:01 xnvquscr - 984899 -
+BID: 939055 943518 fiqfygurt
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-08-02T19:15 zokv - 956634 -
+AUCTION_FINISHED: 2023-08-03T03:26 awkbkquj - 626922 -
+BID: 269511 269511 emlbeycmv
+AUCTION_FINISHED: 2023-08-03T07:07 hhcc 269511 269511 emlbeycmv
+AUCTION_FINISHED: 2023-08-03T08:41 jgikkkixi - 952888 -
+BID: 706913 936924 wtdjnrikgr
+BID: 826166 860205 lkrsnijn
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 605749 605749 nzkmwywhx
+AUCTION_FINISHED: 2023-08-04T14:49 zeuzgfav 605749 605749 nzkmwywhx
+SELL: accepted
+BID: 943518 943518 fiqfygurt
+AUCTION_FINISHED: 2023-08-04T20:08 ubenkejw 943518 943518 fiqfygurt
+AUCTION_FINISHED: 2023-08-05T00:24 umxmgn - 927844 -
+AUCTION_FINISHED: 2023-08-05T04:14 hpxasxacg - 851066 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 451480 451480 rkszyxek
+AUCTION_FINISHED: 2023-08-07T01:16 qyxsufavcu 451480 451480 rkszyxek
+BID: 912928 982091 az
+AUCTION_FINISHED: 2023-08-07T05:18 vqkmwrinjq - 996581 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-07T13:55 jpoqqi 882920 917464 bgyubvlf
+SELL: accepted
+BID: 524677 808906 asvsl
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-08T13:24 lanrafdxxv 928970 977298 rzbc
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-09T06:32 qerxwb - 998142 -
+BID: 223509 223509 fnxirnftd
+AUCTION_FINISHED: 2023-08-09T11:05 wpm 223509 223509 fnxirnftd
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 662253 662253 vbb
+AUCTION_FINISHED: 2023-08-10T07:23 dkpfbtepqt 662253 662253 vbb
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 978222 995408 nwfpt
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 377042 427319 k
+BID: 947696 947696 knopxkpr
+AUCTION_FINISHED: 2023-08-11T06:23 aacvqo 947696 947696 knopxkpr
+BID: 992244 995408 nwfpt
+BID: 860205 860205 lkrsnijn
+AUCTION_FINISHED: 2023-08-12T03:11 tzpxdbavdj 860205 860205 lkrsnijn
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-12T07:32 xks - 765719 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-13T09:46 lkykd - 998572 -
+BID: the bid is lower than the minimum price
+BID: 223525 223525 elgkhurqrb
+AUCTION_FINISHED: 2023-08-14T04:10 dmqcddtljc 223525 223525 elgkhurqrb
+SELL: accepted
+SELL: accepted
+BID: 742687 742687 nbwrilmgid
+AUCTION_FINISHED: 2023-08-14T09:24 qyaunugwer 742687 742687 nbwrilmgid
+BID: 738309 738309 vajyyeplaf
+AUCTION_FINISHED: 2023-08-14T10:11 lwwokoofso 738309 738309 vajyyeplaf
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 945787 982865 ylbddgjykc
+BID: 685076 685076 ygoworjtib
+AUCTION_FINISHED: 2023-08-15T05:52 oysvnxfy 685076 685076 ygoworjtib
+AUCTION_FINISHED: 2023-08-15T09:03 luaiertbaf 916853 954000 vzycqrxy
+BID: 993500 995678 tepyyoma
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-08-15T20:09 chfgvvtb - 636848 -
+BID: 853620 853620 bkltlyhsu
+AUCTION_FINISHED: 2023-08-15T21:16 iipvzabq 853620 853620 bkltlyhsu
+SELL: accepted
+AUCTION_FINISHED: 2023-08-16T01:02 fgqalvk - 924926 -
+BID: the bid is lower than the minimum price
+BID: 715710 784553 itdpxprck
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-16T13:38 vzdbwt 527307 878601 olniv
+AUCTION_FINISHED: 2023-08-16T14:11 icimzkaqa 912928 982091 az
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 836186 836186 gacvqqeqmz
+AUCTION_FINISHED: 2023-08-17T13:35 lcqdlnmlz 836186 836186 gacvqqeqmz
+AUCTION_FINISHED: 2023-08-17T15:35 xyumcqxvc - 892812 -
+BID: the bid is lower than the minimum price
+BID: 625088 863469 eoiomzqrf
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-18T00:44 xrerfjl - 935517 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-08-18T11:26 ygnsr - 962944 -
+BID: 425754 815747 qkw
+SELL: accepted
+AUCTION_FINISHED: 2023-08-19T06:05 ehwofvdog 118343 197082 yvpyrwpeza
+BID: the bid is lower than the minimum price
+BID: 947740 983992 hbr
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-19T20:01 ptybpyvcgg - 958597 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 427319 427319 k
+AUCTION_FINISHED: 2023-08-20T07:24 ecrntjudir 427319 427319 k
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 995408 995408 nwfpt
+AUCTION_FINISHED: 2023-08-21T02:34 afhi 995408 995408 nwfpt
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-21T21:29 lqotszfre - 812741 -
+BID: 880359 942196 qekjwx
+AUCTION_FINISHED: 2023-08-22T02:38 qrxnelemzk - 337943 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 832785 832785 ngtzsuqhz
+AUCTION_FINISHED: 2023-08-22T07:45 vxfkydrr 832785 832785 ngtzsuqhz
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-08-23T01:09 lcpxbyco - 986085 -
+SELL: accepted
+AUCTION_FINISHED: 2023-08-23T10:45 aubdqrtgc - 992002 -
+AUCTION_FINISHED: 2023-08-23T14:56 vbcjonka - 341664 -
+SELL: accepted
+BID: 726629 784553 itdpxprck
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 32561 32561 xplpfectad
+AUCTION_FINISHED: 2023-08-23T23:11 gkxabzgf 32561 32561 xplpfectad
+SELL: accepted
+BID: 336683 336683 oyvk
+AUCTION_FINISHED: 2023-08-24T11:20 tsyrpdky 336683 336683 oyvk
+SELL: accepted
+AUCTION_FINISHED: 2023-08-24T16:19 lby - 946128 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-24T23:13 zsehmbwqf - 968883 -
+SELL: accepted
+BID: 876430 876430 k
+AUCTION_FINISHED: 2023-08-25T03:44 egyaechzbl 876430 876430 k
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 519483 881318 w
+BID: 370697 370697 mkhlegcnsh
+AUCTION_FINISHED: 2023-08-25T14:57 qoyb 370697 370697 mkhlegcnsh
+BID: 957716 957716 ufazkijr
+AUCTION_FINISHED: 2023-08-25T17:55 tjklrmfphi 957716 957716 ufazkijr
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 572744 572744 tubqpefkyz
+AUCTION_FINISHED: 2023-08-27T01:28 hkzdqgzln 572744 572744 tubqpefkyz
+BID: 395474 395474 spdgqelljl
+AUCTION_FINISHED: 2023-08-27T02:10 upqidqquh 395474 395474 spdgqelljl
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-27T09:00 wjp - 954086 -
+BID: 646007 978594 inmvwrtyj
+AUCTION_FINISHED: 2023-08-28T04:52 musib - 978585 -
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 442559 860356 bjvlfi
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 746153 860356 bjvlfi
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-29T12:20 pxkpk - 998123 -
+BID: 995678 995678 tepyyoma
+AUCTION_FINISHED: 2023-08-29T14:38 gruowxza 995678 995678 tepyyoma
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-08-29T21:24 zmnhsmihbs - 999792 -
+AUCTION_FINISHED: 2023-08-29T22:14 zwapscchg - 969932 -
+AUCTION_FINISHED: 2023-08-29T22:45 ou - 919287 -
+BID: 724997 724997 jrsolsud
+AUCTION_FINISHED: 2023-08-30T12:42 wcbxkyqxu 724997 724997 jrsolsud
+SELL: accepted
+AUCTION_FINISHED: 2023-08-30T14:19 ygcaokoa 646007 978594 inmvwrtyj
+SELL: accepted
+AUCTION_FINISHED: 2023-08-30T20:33 puimwckjph - 310178 -
+BID: the bid is lower than the minimum price
+BID: 657758 657758 wrvwcdbv
+AUCTION_FINISHED: 2023-08-31T03:38 tzfsdxmghh 657758 657758 wrvwcdbv
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 737165 757110 fsssstuik
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-01T23:47 jxgjdrczp - 927252 -
+SELL: accepted
+AUCTION_FINISHED: 2023-09-02T07:37 myky - 794182 -
+BID: the bid is lower than the minimum price
+BID: 306004 313299 rfrnn
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-09-03T07:09 vtklpqlz - 731320 -
+BID: the bid is lower than the minimum price
+BID: 728450 881318 w
+AUCTION_FINISHED: 2023-09-03T13:31 bpowpryq - 427861 -
+BID: 961776 983992 hbr
+BID: 814252 971946 efrkxzvgwq
+BID: 377866 377866 plqqzgcult
+AUCTION_FINISHED: 2023-09-03T15:45 jhwnstnfnx 377866 377866 plqqzgcult
+SELL: accepted
+AUCTION_FINISHED: 2023-09-04T00:15 wavlhcjj - 961927 -
+SELL: accepted
+BID: 226434 946553 hwps
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-04T10:51 faziguepzp - 995911 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 969794 979631 wudmyrtg
+BID: 837578 853194 ke
+BID: 524673 715791 tubvggjsp
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 463102 463102 ntljaiwq
+AUCTION_FINISHED: 2023-09-07T03:30 pwtlmzxcpf 463102 463102 ntljaiwq
+BID: 602176 602176 ywugmbca
+AUCTION_FINISHED: 2023-09-07T04:19 tignaaaw 602176 602176 ywugmbca
+BID: 625528 625528 wqbvedfty
+AUCTION_FINISHED: 2023-09-07T04:39 alvvndfrbg 625528 625528 wqbvedfty
+SELL: accepted
+BID: 767079 905299 cvgf
+AUCTION_FINISHED: 2023-09-07T20:10 fqpgujpw - 700768 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 858722 962513 vqktpvld
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-09T11:45 ixyrvuat - 960865 -
+SELL: accepted
+BID: 706791 706791 sszglrdev
+AUCTION_FINISHED: 2023-09-09T16:47 lixastueo 706791 706791 sszglrdev
+BID: the bid is lower than the minimum price
+BID: 843279 876428 ftfucvgd
+SELL: accepted
+BID: 618592 618592 rqtpnunp
+AUCTION_FINISHED: 2023-09-10T02:54 mwqzhfbni 618592 618592 rqtpnunp
+BID: 729506 881664 kbgrltntxl
+BID: the bid is lower than the minimum price
+BID: 837367 881318 w
+AUCTION_FINISHED: 2023-09-10T16:37 fkhpbliwsx 706913 936924 wtdjnrikgr
+BID: 816650 860356 bjvlfi
+SELL: accepted
+AUCTION_FINISHED: 2023-09-11T06:14 yqq 843279 876428 ftfucvgd
+SELL: accepted
+SELL: accepted
+BID: 622602 622602 tyumthcpf
+AUCTION_FINISHED: 2023-09-11T21:25 xyejunyaza 622602 622602 tyumthcpf
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 437171 437171 eupxnkpde
+AUCTION_FINISHED: 2023-09-12T18:56 la 437171 437171 eupxnkpde
+SELL: accepted
+AUCTION_FINISHED: 2023-09-12T21:50 kczxknbtl - 730289 -
+BID: the bid is lower than the minimum price
+BID: 991765 995903 dgsjvfitlm
+BID: 838532 883861 tvqbnnf
+BID: 773604 773604 lmtjxgv
+AUCTION_FINISHED: 2023-09-13T14:00 nhyiminlvi 773604 773604 lmtjxgv
+BID: 946738 946738 ufsghw
+AUCTION_FINISHED: 2023-09-13T14:36 krrofkfyjg 946738 946738 ufsghw
+SELL: accepted
+BID: 304029 304029 qrbhjsfcbi
+AUCTION_FINISHED: 2023-09-13T21:40 oahhjlsooe 304029 304029 qrbhjsfcbi
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 808932 956163 wczdscwjf
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-09-16T04:21 lygtgylc - 560002 -
+BID: the bid is lower than the minimum price
+BID: 783039 783039 bf
+AUCTION_FINISHED: 2023-09-16T06:26 tahsegwz 783039 783039 bf
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-16T15:01 yzvhnlhn - 591779 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-09-17T04:27 r - 852043 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 953911 953911 ktwfuijf
+AUCTION_FINISHED: 2023-09-17T21:00 qjyrxodvv 953911 953911 ktwfuijf
+AUCTION_FINISHED: 2023-09-18T00:50 zpnxghav 524677 808906 asvsl
+BID: 807686 870948 gyxxmjlzn
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-19T10:50 vbtdrvzlz - 927822 -
+SELL: accepted
+AUCTION_FINISHED: 2023-09-19T12:42 wmm - 739716 -
+AUCTION_FINISHED: 2023-09-19T18:16 nagzalwkx - 733387 -
+AUCTION_FINISHED: 2023-09-19T20:12 usohnqi - 881208 -
+AUCTION_FINISHED: 2023-09-20T00:27 swjqdcgjit 945787 982865 ylbddgjykc
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 823055 823055 hyayebpw
+AUCTION_FINISHED: 2023-09-20T11:05 alaazukzjl 823055 823055 hyayebpw
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-20T17:55 skcyt 816650 860356 bjvlfi
+AUCTION_FINISHED: 2023-09-20T18:30 wwmai - 957038 -
+BID: the bid is lower than the minimum price
+BID: 745034 766634 jlaw
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 853254 853254 fd
+AUCTION_FINISHED: 2023-09-21T13:08 asjbohcpl 853254 853254 fd
+BID: 866575 876361 pmswjfwm
+AUCTION_FINISHED: 2023-09-21T16:18 fzihcf - 905312 -
+BID: 433203 433203 hdcnqa
+AUCTION_FINISHED: 2023-09-21T19:02 wivwcdduo 433203 433203 hdcnqa
+BID: 823233 823233 zlpb
+AUCTION_FINISHED: 2023-09-21T20:47 wpjwitarw 823233 823233 zlpb
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-22T04:48 heqojkqn - 708903 -
+AUCTION_FINISHED: 2023-09-22T06:54 xqwnnfab 524673 715791 tubvggjsp
+BID: 238306 238306 fofuwuhcp
+AUCTION_FINISHED: 2023-09-22T11:29 rluomtdm 238306 238306 fofuwuhcp
+BID: 524482 883742 famewummg
+SELL: accepted
+AUCTION_FINISHED: 2023-09-23T08:59 vbeibv - 864690 -
+AUCTION_FINISHED: 2023-09-23T11:48 zbmffapx - 791139 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-23T18:13 pbsxfxkvmz - 937660 -
+BID: 863214 971946 efrkxzvgwq
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-09-24T13:27 ajkajsac - 834492 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 995903 995903 dgsjvfitlm
+AUCTION_FINISHED: 2023-09-24T19:51 txnnseuhly 995903 995903 dgsjvfitlm
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 934718 998063 hafrcopmu
+BID: 626161 626161 iemnyi
+AUCTION_FINISHED: 2023-09-25T23:20 xyk 626161 626161 iemnyi
+BID: the bid is lower than the minimum price
+BID: 962513 962513 vqktpvld
+AUCTION_FINISHED: 2023-09-26T03:24 fndossxmk 962513 962513 vqktpvld
+AUCTION_FINISHED: 2023-09-26T04:06 uqwrnufm - 996850 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-27T05:00 emvmf - 707208 -
+BID: the bid is lower than the minimum price
+BID: 848896 942949 ailldoawo
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-28T02:54 gtree - 985415 -
+BID: 438874 603325 qpixswkegw
+AUCTION_FINISHED: 2023-09-28T04:39 yfasvgoqqn - 457223 -
+SELL: accepted
+SELL: accepted
+BID: 970931 970931 tcvj
+AUCTION_FINISHED: 2023-09-28T23:44 urkpgttlg 970931 970931 tcvj
+BID: 680748 680748 kjggpjwbv
+AUCTION_FINISHED: 2023-09-28T23:49 fwqjnjnpdv 680748 680748 kjggpjwbv
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 966961 998063 hafrcopmu
+BID: the bid is lower than the minimum price
+BID: 994026 994026 errauibgd
+AUCTION_FINISHED: 2023-09-29T03:18 ftcolptg 994026 994026 errauibgd
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-09-29T17:05 tlolwfsqom - 933431 -
+SELL: accepted
+BID: 627494 627494 gwpvfszfb
+AUCTION_FINISHED: 2023-09-29T20:12 yyxrhvlvg 627494 627494 gwpvfszfb
+BID: 685190 961821 ldnvxjk
+SELL: accepted
+BID: 856905 883861 tvqbnnf
+AUCTION_FINISHED: 2023-09-30T20:43 rapml - 977037 -
+BID: 884921 884921 aogbzojr
+AUCTION_FINISHED: 2023-09-30T21:51 gjckhbl 884921 884921 aogbzojr
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-03T06:09 wzsiorpgh - 720457 -
+AUCTION_FINISHED: 2023-10-03T07:17 rdndgfpl - 332840 -
+BID: 767567 884337 ml
+BID: 689628 883742 famewummg
+BID: 647313 647313 fijzqmlgyz
+AUCTION_FINISHED: 2023-10-03T13:52 cskddsblkz 647313 647313 fijzqmlgyz
+BID: 855131 881664 kbgrltntxl
+AUCTION_FINISHED: 2023-10-03T21:41 tv - 747817 -
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 811032 956163 wczdscwjf
+SELL: accepted
+SELL: accepted
+BID: 559542 559542 bezqfmqz
+AUCTION_FINISHED: 2023-10-05T05:55 almtimgmbj 559542 559542 bezqfmqz
+BID: 806958 939456 zcyumlruug
+AUCTION_FINISHED: 2023-10-05T13:47 fzkpvwtk 438874 603325 qpixswkegw
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-06T00:14 mmecpy - 798911 -
+AUCTION_FINISHED: 2023-10-06T03:56 yjz - 499235 -
+SELL: accepted
+SELL: accepted
+BID: 178684 349482 mivjxevcd
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-07T05:01 rafrrjjb - 495093 -
+BID: 881664 881664 kbgrltntxl
+AUCTION_FINISHED: 2023-10-07T05:14 aiyardnx 881664 881664 kbgrltntxl
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 630560 754320 fwduagsybu
+BID: 812225 812225 gtuirurixt
+AUCTION_FINISHED: 2023-10-08T03:07 yayivxihp 812225 812225 gtuirurixt
+BID: the bid is lower than the minimum price
+BID: 961821 961821 ldnvxjk
+AUCTION_FINISHED: 2023-10-08T10:53 hxmnrhsomi 961821 961821 ldnvxjk
+SELL: accepted
+SELL: accepted
+BID: 942196 942196 qekjwx
+AUCTION_FINISHED: 2023-10-08T12:58 hfmxftog 942196 942196 qekjwx
+BID: the bid is lower than the minimum price
+BID: 823720 823720 soyywirs
+AUCTION_FINISHED: 2023-10-09T16:15 qrivxyc 823720 823720 soyywirs
+SELL: accepted
+AUCTION_FINISHED: 2023-10-09T22:30 kxbvhbz - 983510 -
+BID: the bid is lower than the minimum price
+BID: 975548 975548 gqybmaei
+AUCTION_FINISHED: 2023-10-10T02:28 ahleitmjj 975548 975548 gqybmaei
+SELL: accepted
+BID: 757110 757110 fsssstuik
+AUCTION_FINISHED: 2023-10-10T03:38 pbiuubrbgq 757110 757110 fsssstuik
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-10T05:33 rwzjmytss 961776 983992 hbr
+AUCTION_FINISHED: 2023-10-10T07:20 oicyptojov - 974476 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-10T21:09 yfmszvnldg - 516172 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 896344 942949 ailldoawo
+AUCTION_FINISHED: 2023-10-11T14:10 srdiicnxnj 837367 881318 w
+AUCTION_FINISHED: 2023-10-11T15:50 miqfbioaa - 893179 -
+AUCTION_FINISHED: 2023-10-11T18:19 sfpkrlhzb - 515314 -
+BID: 389555 749183 uga
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-11T20:39 mqvfotvf - 230762 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-12T21:02 ifunogpn - 981891 -
+AUCTION_FINISHED: 2023-10-12T23:33 qskubtidd - 872022 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-13T10:26 ocmxnfdv - 946195 -
+BID: 979631 979631 wudmyrtg
+AUCTION_FINISHED: 2023-10-13T20:38 fubfhoqm 979631 979631 wudmyrtg
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-10-15T11:22 izecm - 835926 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 581184 581184 zndkmjznqm
+AUCTION_FINISHED: 2023-10-15T19:43 xeeuioxe 581184 581184 zndkmjznqm
+AUCTION_FINISHED: 2023-10-16T02:31 irnkswpbrg 896344 942949 ailldoawo
+AUCTION_FINISHED: 2023-10-16T04:22 yhsdhsdtph - 923990 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-16T07:54 crcqcln - 978973 -
+AUCTION_FINISHED: 2023-10-16T08:48 o - 972593 -
+BID: 808768 808768 dsvmexsr
+AUCTION_FINISHED: 2023-10-16T16:36 nmikobtt 808768 808768 dsvmexsr
+BID: the bid is lower than the minimum price
+SELL: this item_id is already in use
+BID: 528874 652335 bccgcqdbp
+BID: 969903 974240 lqbspgjt
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 911073 911073 k
+AUCTION_FINISHED: 2023-10-18T10:10 kkqhkafe 911073 911073 k
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-10-18T19:15 pwfwautbvn - 994914 -
+AUCTION_FINISHED: 2023-10-19T05:37 svjbpeat 811032 956163 wczdscwjf
+AUCTION_FINISHED: 2023-10-19T07:25 mguqifixt - 348519 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-19T12:03 ujzqwshk - 820001 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-10-20T04:59 tgvujmmbb - 953018 -
+BID: 328190 530368 snbwvgkcqv
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-10-21T07:54 lasuzoskuh 767567 884337 ml
+BID: 313299 313299 rfrnn
+AUCTION_FINISHED: 2023-10-21T13:35 jufuzwqbw 313299 313299 rfrnn
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 766634 766634 jlaw
+AUCTION_FINISHED: 2023-10-22T19:25 gixqymqk 766634 766634 jlaw
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 827050 827050 lysjinzfn
+AUCTION_FINISHED: 2023-10-23T05:41 qixrcq 827050 827050 lysjinzfn
+SELL: accepted
+BID: 191895 349482 mivjxevcd
+BID: the bid is lower than the minimum price
+SELL: this item_id is already in use
+SELL: accepted
+SELL: this item_id is already in use
+SELL: accepted
+BID: 841764 841764 kfa
+AUCTION_FINISHED: 2023-10-23T22:54 euxcnxkw 841764 841764 kfa
+SELL: accepted
+BID: 530368 530368 snbwvgkcqv
+AUCTION_FINISHED: 2023-10-24T08:45 ay 530368 530368 snbwvgkcqv
+AUCTION_FINISHED: 2023-10-24T09:56 yvlotmgk - 294687 -
+AUCTION_FINISHED: 2023-10-24T23:01 hnejfsaezd - 998929 -
+SELL: accepted
+AUCTION_FINISHED: 2023-10-25T12:05 gqdrkjhr 866575 876361 pmswjfwm
+AUCTION_FINISHED: 2023-10-25T16:31 t - 921172 -
+BID: 853194 853194 ke
+AUCTION_FINISHED: 2023-10-25T18:10 d 853194 853194 ke
+BID: 678523 678523 hgp
+AUCTION_FINISHED: 2023-10-25T19:52 vdsukvzsiq 678523 678523 hgp
+AUCTION_FINISHED: 2023-10-25T20:13 j - 982116 -
+SELL: accepted
+AUCTION_FINISHED: 2023-10-26T04:11 wc - 489989 -
+BID: the bid is lower than the minimum price
+BID: 297523 297523 hrcro
+AUCTION_FINISHED: 2023-10-26T06:21 gvhzpzdwq 297523 297523 hrcro
+BID: the bid is lower than the minimum price
+BID: 452648 863960 qpahgdsic
+AUCTION_FINISHED: 2023-10-26T15:29 yhtkrjqmnm - 510024 -
+SELL: this item_id is already in use
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-27T05:28 mqqxrvenr 767079 905299 cvgf
+BID: 497784 497784 rftpexlnl
+AUCTION_FINISHED: 2023-10-27T08:36 gnfoiaen 497784 497784 rftpexlnl
+AUCTION_FINISHED: 2023-10-27T11:00 mp - 568258 -
+AUCTION_FINISHED: 2023-10-27T14:49 wfrfhqwvot - 979238 -
+SELL: accepted
+BID: 974298 984993 ebrufyln
+AUCTION_FINISHED: 2023-10-27T21:19 luiyenpwn - 937855 -
+SELL: accepted
+AUCTION_FINISHED: 2023-10-27T22:46 lqqvvvizpv - 304474 -
+SELL: accepted
+BID: 883742 883742 famewummg
+AUCTION_FINISHED: 2023-10-28T06:19 zybixsmb 883742 883742 famewummg
+AUCTION_FINISHED: 2023-10-28T07:52 redtjrsxc - 977244 -
+SELL: accepted
+SELL: accepted
+BID: 720105 920366 x
+AUCTION_FINISHED: 2023-10-29T02:26 kirse - 857306 -
+AUCTION_FINISHED: 2023-10-29T03:35 uwbtneck - 752773 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-10-30T01:19 vozweweh - 445857 -
+AUCTION_FINISHED: 2023-10-30T02:24 qnulysaan - 786505 -
+AUCTION_FINISHED: 2023-10-30T08:33 haqze - 933932 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 311229 606168 jnd
+SELL: accepted
+AUCTION_FINISHED: 2023-10-30T21:43 myryv - 955623 -
+SELL: accepted
+AUCTION_FINISHED: 2023-10-31T11:35 sitnctizic - 838278 -
+BID: 538354 679957 zbfujw
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: this item_id is already in use
+BID: 784553 784553 itdpxprck
+AUCTION_FINISHED: 2023-11-01T05:46 hrfzerdgp 784553 784553 itdpxprck
+SELL: accepted
+AUCTION_FINISHED: 2023-11-01T08:45 wewhhlmg - 471473 -
+AUCTION_FINISHED: 2023-11-01T17:23 stzpuriszv 806958 939456 zcyumlruug
+SELL: accepted
+AUCTION_FINISHED: 2023-11-02T00:26 fueixqzhhy 425754 815747 qkw
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: this item_id is already in use
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-04T02:06 ypr 191895 349482 mivjxevcd
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-04T12:30 curmnhvlud - 709134 -
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-04T18:30 evtctrvhbe - 851921 -
+AUCTION_FINISHED: 2023-11-04T22:55 dukcbqpjg - 967713 -
+AUCTION_FINISHED: 2023-11-05T00:20 ujphvgmeo - 739517 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 397406 508777 r
+AUCTION_FINISHED: 2023-11-05T15:20 ftrghcgcw - 857978 -
+AUCTION_FINISHED: 2023-11-05T16:19 xutqoqvdua 863214 971946 efrkxzvgwq
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-05T17:36 swjyqpstb - 952023 -
+SELL: accepted
+BID: 848527 946553 hwps
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-11-06T03:51 phebcqyyc - 655589 -
+AUCTION_FINISHED: 2023-11-06T05:00 yozubseuhp 807686 870948 gyxxmjlzn
+AUCTION_FINISHED: 2023-11-07T00:04 mpcttjkqn - 840525 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-07T10:47 tgshgzvdg - 816084 -
+AUCTION_FINISHED: 2023-11-07T12:30 xoktynvxr - 974078 -
+BID: 782197 782197 fxilucow
+AUCTION_FINISHED: 2023-11-07T13:14 qemegcjfy 782197 782197 fxilucow
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 883861 883861 tvqbnnf
+AUCTION_FINISHED: 2023-11-07T14:10 pucvpdok 883861 883861 tvqbnnf
+BID: 6267 772241 ycud
+AUCTION_FINISHED: 2023-11-07T23:10 sgekshrfum - 998177 -
+AUCTION_FINISHED: 2023-11-08T02:12 vurqfdai - 917620 -
+BID: 834849 834849 kxkyldfykb
+AUCTION_FINISHED: 2023-11-08T05:20 ykw 834849 834849 kxkyldfykb
+BID: 390657 880114 ycijuyaaz
+AUCTION_FINISHED: 2023-11-08T07:11 zbcuvcj - 994361 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 863960 863960 qpahgdsic
+AUCTION_FINISHED: 2023-11-08T21:37 xitepydna 863960 863960 qpahgdsic
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-09T04:46 sriyepnoeq 390657 880114 ycijuyaaz
+BID: 508777 508777 r
+AUCTION_FINISHED: 2023-11-09T07:23 kdrf 508777 508777 r
+BID: 684954 684954 mrp
+AUCTION_FINISHED: 2023-11-09T17:21 mcvdfzvis 684954 684954 mrp
+BID: 879080 894382 ouxdjrfuo
+SELL: accepted
+BID: 267111 549693 dbystxyf
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 998063 998063 hafrcopmu
+AUCTION_FINISHED: 2023-11-10T11:21 suhzdu 998063 998063 hafrcopmu
+SELL: accepted
+BID: 187626 890101 ltrbki
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-11-12T04:43 zlpdcxlvcf - 860581 -
+BID: 382911 549693 dbystxyf
+BID: the bid is lower than the minimum price
+BID: 894382 894382 ouxdjrfuo
+AUCTION_FINISHED: 2023-11-12T21:36 iyfnfige 894382 894382 ouxdjrfuo
+AUCTION_FINISHED: 2023-11-13T03:14 rappgfcyt - 923625 -
+AUCTION_FINISHED: 2023-11-13T05:37 aojyvdpkdz - 960500 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-11-13T18:19 ouczmkgy - 977398 -
+BID: 906693 906693 crizjsrsa
+AUCTION_FINISHED: 2023-11-13T20:30 xgfdjmfupr 906693 906693 crizjsrsa
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-14T21:11 vcmrexozf - 864623 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-15T02:26 ggisswuesj - 640992 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-15T08:38 novzfeoi - 621647 -
+BID: 460930 460930 dlhbomis
+AUCTION_FINISHED: 2023-11-15T10:13 tqufgshqte 460930 460930 dlhbomis
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 903037 903037 mstolilkgh
+AUCTION_FINISHED: 2023-11-15T18:41 gitah 903037 903037 mstolilkgh
+BID: 637766 659570 wujyhjln
+AUCTION_FINISHED: 2023-11-15T22:26 xqwqtlhy - 961008 -
+SELL: accepted
+BID: 240599 240599 ctykrhay
+AUCTION_FINISHED: 2023-11-16T04:00 kqvhenwaro 240599 240599 ctykrhay
+BID: 352207 352207 yhbkt
+AUCTION_FINISHED: 2023-11-16T09:36 mfguzezy 352207 352207 yhbkt
+SELL: accepted
+AUCTION_FINISHED: 2023-11-16T13:24 dqnnjaqa - 880376 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-16T23:30 hqeillph 969903 974240 lqbspgjt
+AUCTION_FINISHED: 2023-11-17T02:13 uollncjakv - 984537 -
+BID: 689951 689951 oytktmr
+AUCTION_FINISHED: 2023-11-17T12:39 h 689951 689951 oytktmr
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-17T18:00 ehsuuvrs - 511283 -
+AUCTION_FINISHED: 2023-11-18T00:39 bbx - 371875 -
+SELL: this item_id is already in use
+AUCTION_FINISHED: 2023-11-18T05:13 obtknvwzz - 955391 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-18T06:31 zyelixvfo - 966031 -
+SELL: accepted
+BID: 451008 554268 ykynxxvtpm
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: 768222 772241 ycud
+AUCTION_FINISHED: 2023-11-18T23:36 waycrvbo - 717732 -
+BID: 388370 950529 j
+AUCTION_FINISHED: 2023-11-19T04:57 gyuuwfjf - 805093 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: 384204 384204 jyistyvnf
+AUCTION_FINISHED: 2023-11-19T19:10 bnikazyta 384204 384204 jyistyvnf
+BID: 659570 659570 wujyhjln
+AUCTION_FINISHED: 2023-11-19T21:46 zyznjzyeer 659570 659570 wujyhjln
+BID: 608034 890101 ltrbki
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-11-20T04:22 zazupfkuf - 917710 -
+BID: 390300 390300 rmwxmclob
+AUCTION_FINISHED: 2023-11-20T10:32 duinsjvoay 390300 390300 rmwxmclob
+BID: 443372 467817 qroxpkcacb
+SELL: accepted
+AUCTION_FINISHED: 2023-11-20T16:27 mzrbceyjww - 806796 -
+SELL: accepted
+BID: 90901 816475 vfpqtaxzm
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+SELL: accepted
+BID: 381452 606168 jnd
+AUCTION_FINISHED: 2023-11-21T03:09 qqdsrqeu 443372 467817 qroxpkcacb
+AUCTION_FINISHED: 2023-11-21T03:24 dlprztikq - 598324 -
+AUCTION_FINISHED: 2023-11-21T03:24 fcb - 515918 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 509833 950529 j
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-22T05:45 ihftuxmy - 591236 -
+AUCTION_FINISHED: 2023-11-22T06:33 lspuogxom - 985331 -
+AUCTION_FINISHED: 2023-11-22T10:08 vlzeoogtzp - 967027 -
+BID: the bid is lower than the minimum price
+BID: 546077 606168 jnd
+BID: 347043 347043 lzscquhoi
+AUCTION_FINISHED: 2023-11-22T21:27 mppldblig 347043 347043 lzscquhoi
+AUCTION_FINISHED: 2023-11-22T21:39 xdqmxjvb 625088 863469 eoiomzqrf
+AUCTION_FINISHED: 2023-11-23T02:48 hasdvadfi - 984444 -
+SELL: accepted
+AUCTION_FINISHED: 2023-11-23T18:55 xbbyxzqjf - 921944 -
+AUCTION_FINISHED: 2023-11-24T01:52 ol 528874 652335 bccgcqdbp
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-24T07:27 ziniefkki - 949410 -
+BID: 679957 679957 zbfujw
+AUCTION_FINISHED: 2023-11-24T10:05 ahu 679957 679957 zbfujw
+AUCTION_FINISHED: 2023-11-24T12:15 pnqwkfha 630560 754320 fwduagsybu
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-11-24T19:08 jqdkyeszst - 997334 -
+AUCTION_FINISHED: 2023-11-24T20:38 bmdysphfj - 470295 -
+SELL: accepted
+AUCTION_FINISHED: 2023-11-25T03:35 nkyxqjemq - 802489 -
+AUCTION_FINISHED: 2023-11-25T07:23 frwhlmahtk - 981258 -
+SELL: accepted
+AUCTION_FINISHED: 2023-11-25T16:39 gckouiwnhz 608034 890101 ltrbki
+BID: 842819 842819 wttoheugmw
+AUCTION_FINISHED: 2023-11-25T17:33 graxeoeg 842819 842819 wttoheugmw
+AUCTION_FINISHED: 2023-11-25T20:31 ipaqcequsk - 903058 -
+BID: 424669 776821 e
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-26T07:41 trwbrpsik - 755802 -
+SELL: accepted
+SELL: accepted
+SELL: this item_id is already in use
+AUCTION_FINISHED: 2023-11-26T21:10 xedijcff 848527 946553 hwps
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-27T11:37 jegaqutzox - 915006 -
+AUCTION_FINISHED: 2023-11-27T12:09 ymue - 997533 -
+SELL: accepted
+AUCTION_FINISHED: 2023-11-28T01:41 uxqwrhsqe - 872320 -
+AUCTION_FINISHED: 2023-11-28T07:27 utlzrtsv - 263211 -
+AUCTION_FINISHED: 2023-11-28T07:33 augxtc - 767728 -
+SELL: accepted
+BID: 355240 446258 purjytdtd
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-11-29T15:02 xceejebrs - 993338 -
+BID: 898558 898558 zgrmfkjrg
+AUCTION_FINISHED: 2023-11-29T19:00 xopg 898558 898558 zgrmfkjrg
+SELL: accepted
+AUCTION_FINISHED: 2023-11-30T01:52 oa 424669 776821 e
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 654959 654959 n
+AUCTION_FINISHED: 2023-11-30T18:33 gbdbkznpcz 654959 654959 n
+AUCTION_FINISHED: 2023-11-30T20:31 zrcdinnjrt - 558870 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-01T18:37 x - 290093 -
+AUCTION_FINISHED: 2023-12-01T20:40 zeltylaalt - 983104 -
+AUCTION_FINISHED: 2023-12-01T20:55 saragwcwy - 794601 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-02T05:07 je - 953825 -
+SELL: accepted
+SELL: accepted
+BID: 172243 836699 tcrvbfk
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: 380556 380556 qi
+AUCTION_FINISHED: 2023-12-03T15:25 jjkdbozwbc 380556 380556 qi
+AUCTION_FINISHED: 2023-12-03T20:01 wyxtjriw - 680618 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-04T03:02 vptm 509833 950529 j
+BID: 746940 794410 ugfisqumvg
+AUCTION_FINISHED: 2023-12-04T10:23 xoiumykg - 964238 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 570316 914215 sswkakqfwi
+AUCTION_FINISHED: 2023-12-05T08:25 iyshty - 889999 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 836699 836699 tcrvbfk
+AUCTION_FINISHED: 2023-12-07T00:04 otcoce 836699 836699 tcrvbfk
+AUCTION_FINISHED: 2023-12-07T08:36 jothvufw - 949913 -
+AUCTION_FINISHED: 2023-12-07T13:20 lqmsnncgu - 852683 -
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-12-08T12:54 bgwa - 878190 -
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-12-08T18:17 mtwlk - 434242 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-09T01:01 ztjsmmsygq - 333308 -
+BID: 433977 433977 omyjpxgi
+AUCTION_FINISHED: 2023-12-09T02:51 marbljfr 433977 433977 omyjpxgi
+SELL: accepted
+AUCTION_FINISHED: 2023-12-09T12:01 ezpe - 630792 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-12-09T15:53 aqdanzzxy - 622961 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-09T18:13 peozlakn - 589057 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-10T01:31 biloogtxy - 635429 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-10T12:00 waiyzzmdo - 842911 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-10T20:58 wxpjnhqv - 331713 -
+AUCTION_FINISHED: 2023-12-10T22:29 ganrwqmfc - 991609 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-11T12:21 fzuaymve 909062 941515 bsqiaofx
+AUCTION_FINISHED: 2023-12-11T16:37 lywpwfbg - 533802 -
+AUCTION_FINISHED: 2023-12-11T17:17 nkhqcfrfi - 364450 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-11T18:28 qtotbydpgb - 629991 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-12T10:48 duidhtmj - 979745 -
+SELL: accepted
+SELL: accepted
+AUCTION_FINISHED: 2023-12-12T13:15 lpkevon - 999620 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-12T21:43 fhvptdoamz 768222 772241 ycud
+BID: the bid is lower than the minimum price
+BID: 460739 737872 urhiqbre
+AUCTION_FINISHED: 2023-12-13T05:10 hstuubtq - 859747 -
+AUCTION_FINISHED: 2023-12-13T06:08 jwjmytoy - 631057 -
+AUCTION_FINISHED: 2023-12-13T06:36 fmb - 999550 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-12-13T14:46 lsqrhcuz - 826049 -
+AUCTION_FINISHED: 2023-12-13T16:49 hgawixng - 881240 -
+BID: 946056 946056 wvmojwvszj
+AUCTION_FINISHED: 2023-12-13T19:40 glgilxtsd 946056 946056 wvmojwvszj
+BID: the bid is lower than the minimum price
+BID: 606168 606168 jnd
+AUCTION_FINISHED: 2023-12-14T03:12 pcttgivte 606168 606168 jnd
+BID: 426354 549693 dbystxyf
+AUCTION_FINISHED: 2023-12-14T11:58 vyerhaquhv 570316 914215 sswkakqfwi
+AUCTION_FINISHED: 2023-12-14T12:58 mxodoyejw - 895863 -
+BID: the bid is lower than the minimum price
+BID: 443494 443494 sluaosqn
+AUCTION_FINISHED: 2023-12-14T15:46 pgpdoshr 443494 443494 sluaosqn
+AUCTION_FINISHED: 2023-12-15T12:44 rniivuve - 994023 -
+BID: 222637 222637 flxvckrisv
+AUCTION_FINISHED: 2023-12-15T13:38 zt 222637 222637 flxvckrisv
+AUCTION_FINISHED: 2023-12-15T23:14 dxxmhpqgdt - 531910 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-16T06:51 yvuluarym 451008 554268 ykynxxvtpm
+AUCTION_FINISHED: 2023-12-16T07:41 sjnav - 985154 -
+SELL: this item_id is already in use
+BID: the bid is lower than the minimum price
+SELL: accepted
+SELL: this item_id is already in use
+AUCTION_FINISHED: 2023-12-17T02:19 kfktpmooh - 991366 -
+AUCTION_FINISHED: 2023-12-17T04:51 yzlzwxbge - 841899 -
+SELL: accepted
+BID: 777055 997481 naoijuvlf
+BID: 603904 991887 wdbmijhdm
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-12-17T22:05 xrzkwwthxa - 671133 -
+SELL: accepted
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-18T04:35 dyibd 460739 737872 urhiqbre
+BID: 309492 520113 uftt
+AUCTION_FINISHED: 2023-12-18T08:59 qqqwbrza - 171725 -
+BID: 347028 791402 umwhezu
+SELL: accepted
+SELL: accepted
+BID: 778310 791402 umwhezu
+AUCTION_FINISHED: 2023-12-19T02:29 tpbrzjew 746940 794410 ugfisqumvg
+AUCTION_FINISHED: 2023-12-19T03:30 jupj - 850692 -
+AUCTION_FINISHED: 2023-12-19T04:46 rhhqyclgnc - 440736 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-19T09:38 asbiarezl - 259955 -
+AUCTION_FINISHED: 2023-12-19T14:11 aicywugiaw - 735479 -
+BID: 891055 891055 ahbteddt
+AUCTION_FINISHED: 2023-12-19T16:42 deepfssuy 891055 891055 ahbteddt
+SELL: accepted
+BID: 801537 991887 wdbmijhdm
+AUCTION_FINISHED: 2023-12-20T00:55 w 778310 791402 umwhezu
+AUCTION_FINISHED: 2023-12-20T03:12 xtwnwlpyd - 546340 -
+AUCTION_FINISHED: 2023-12-20T03:53 jaeybdoj - 986835 -
+AUCTION_FINISHED: 2023-12-20T07:15 erndjngz - 746874 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-20T09:06 nszem - 623665 -
+AUCTION_FINISHED: 2023-12-20T09:25 qoadlyhxqm - 902972 -
+AUCTION_FINISHED: 2023-12-20T11:02 cahrrcfd - 992729 -
+AUCTION_FINISHED: 2023-12-20T13:53 ufin - 996775 -
+BID: 111358 816475 vfpqtaxzm
+SELL: accepted
+SELL: accepted
+BID: 822130 997481 naoijuvlf
+AUCTION_FINISHED: 2023-12-21T09:14 pczhyfqg - 486913 -
+AUCTION_FINISHED: 2023-12-21T11:53 fztsivc - 849352 -
+AUCTION_FINISHED: 2023-12-21T11:57 pagisugvgg - 784652 -
+AUCTION_FINISHED: 2023-12-21T13:59 kukdot 389555 749183 uga
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-21T17:35 ekpxqbungw - 910507 -
+BID: 549693 549693 dbystxyf
+AUCTION_FINISHED: 2023-12-21T18:54 hbeglpxd 549693 549693 dbystxyf
+BID: 235057 802546 flmninptf
+SELL: accepted
+AUCTION_FINISHED: 2023-12-22T03:56 ddiiwclo - 985261 -
+BID: 802546 802546 flmninptf
+AUCTION_FINISHED: 2023-12-22T08:14 kllkpsadko 802546 802546 flmninptf
+AUCTION_FINISHED: 2023-12-22T17:47 fvhsxnor - 889549 -
+AUCTION_FINISHED: 2023-12-22T21:20 toymttjd 801537 991887 wdbmijhdm
+AUCTION_FINISHED: 2023-12-23T06:51 zvyoekyju - 954953 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-23T09:33 b 974298 984993 ebrufyln
+AUCTION_FINISHED: 2023-12-23T09:33 upbdktojc - 909912 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-23T10:54 zwczqmotoj - 985695 -
+AUCTION_FINISHED: 2023-12-23T13:16 jlzvmwkibw - 329310 -
+AUCTION_FINISHED: 2023-12-23T13:27 nhttbtmta 111358 816475 vfpqtaxzm
+SELL: accepted
+SELL: accepted
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-24T01:42 ztepgwuoh - 983158 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-24T04:01 kvgluobi - 725457 -
+SELL: accepted
+BID: 542258 542258 yxfrd
+AUCTION_FINISHED: 2023-12-24T07:38 wtugvmi 542258 542258 yxfrd
+AUCTION_FINISHED: 2023-12-24T16:36 fqyxuaui - 678633 -
+SELL: accepted
+BID: 927343 997481 naoijuvlf
+AUCTION_FINISHED: 2023-12-24T23:04 wybpke - 383574 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-25T02:15 rfutarwcc - 825516 -
+BID: 581650 581650 x
+AUCTION_FINISHED: 2023-12-25T09:09 vzhnacinxw 581650 581650 x
+BID: 520113 520113 uftt
+AUCTION_FINISHED: 2023-12-25T13:54 vfrahsak 520113 520113 uftt
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-25T23:16 fjhoqaxhnk - 838786 -
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: the bid is lower than the minimum price
+BID: 886576 960768 v
+AUCTION_FINISHED: 2023-12-26T05:52 hfntecpd - 900638 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-26T14:46 tkkshzxtbj - 995622 -
+BID: 567920 673782 qegln
+BID: 735305 735305 sizx
+AUCTION_FINISHED: 2023-12-26T20:21 abmoktgrh 735305 735305 sizx
+AUCTION_FINISHED: 2023-12-26T20:25 xpnxd 720105 920366 x
+BID: 801229 977128 wioouaipz
+AUCTION_FINISHED: 2023-12-26T22:33 rqhauvol 567920 673782 qegln
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-27T04:26 ipdpzholwr - 821539 -
+AUCTION_FINISHED: 2023-12-27T08:42 kivzyzsnli - 993457 -
+AUCTION_FINISHED: 2023-12-27T11:20 ckdjvjix - 999287 -
+BID: the bid is lower than the minimum price
+SELL: accepted
+AUCTION_FINISHED: 2023-12-27T15:13 vzwvarfqp - 948780 -
+SELL: this item_id is already in use
+AUCTION_FINISHED: 2023-12-27T18:38 tyiyevluxl - 422505 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-27T23:16 hbzrblhiqq - 998917 -
+AUCTION_FINISHED: 2023-12-27T23:58 nhgocdxxe - 597163 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-28T04:30 lmbgfuu 355240 446258 purjytdtd
+BID: 966273 977128 wioouaipz
+SELL: accepted
+AUCTION_FINISHED: 2023-12-28T11:50 mqawbpspyt - 462463 -
+BID: 968599 977128 wioouaipz
+BID: 972158 977128 wioouaipz
+AUCTION_FINISHED: 2023-12-29T04:44 gziiqxpb - 788873 -
+AUCTION_FINISHED: 2023-12-29T05:39 dlcivedfrn - 995729 -
+BID: 570341 570341 vnfgbgfcl
+AUCTION_FINISHED: 2023-12-29T07:17 emwafynmf 570341 570341 vnfgbgfcl
+BID: 977128 977128 wioouaipz
+AUCTION_FINISHED: 2023-12-29T07:39 upbjl 977128 977128 wioouaipz
+SELL: this item_id is already in use
+AUCTION_FINISHED: 2023-12-29T16:05 qpmgo - 917055 -
+BID: the bid is lower than the minimum price
+AUCTION_FINISHED: 2023-12-29T22:22 werqgbzh - 688675 -
+AUCTION_FINISHED: 2023-12-30T00:29 rxwuywabya - 856982 -
+BID: 226553 226553 bx
+AUCTION_FINISHED: 2023-12-30T00:55 lxboqbpbuq 226553 226553 bx
+BID: 887133 887133 oexzhpibv
+AUCTION_FINISHED: 2023-12-30T06:15 y 887133 887133 oexzhpibv
+AUCTION_FINISHED: 2023-12-30T11:27 slfjszyh 927343 997481 naoijuvlf
+BID: 960768 960768 v
+AUCTION_FINISHED: 2023-12-30T13:15 unnrdembj 960768 960768 v
+SELL: accepted
+SELL: accepted
+BID: 891015 914786 udjvckkixy
+AUCTION_FINISHED: 2023-12-30T16:56 mkvdjeez 891015 914786 udjvckkixy
+AUCTION_FINISHED: 2023-12-30T23:47 mlldcallyk - 997111 -
+SELL: accepted
+AUCTION_FINISHED: 2023-12-31T05:49 bsgtpxcnfi - 861160 -
+AUCTION_FINISHED: 2023-12-31T08:22 yhccivjcy - 556065 -
+AUCTION_FINISHED: 2023-12-31T11:27 ylkpzulaa - 569862 -
+SELL: accepted
+BID: 811440 821219 utbux
+SELL: accepted
+AUCTION_FINISHED: 2023-12-31T21:46 bypywjwk 811440 821219 utbux
+BID: 384750 384750 vkknnwwv
+AUCTION_FINISHED: 2023-12-31T21:47 ljmmeeqoh 384750 384750 vkknnwwv
+SELL: accepted
+AUCTION_FINISHED: 2023-12-31T23:35 ensc - 789176 -

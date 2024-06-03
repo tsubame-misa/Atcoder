@@ -1,0 +1,187 @@
+import sys
+import datetime
+
+item_table = {}
+"""
+item = {
+    id={
+    seller,
+    min_price,
+    BIN_price,
+    current_price,
+    highest_bidder,
+    end_time,
+    bidders={"id":price}
+    statue=
+    }
+}
+"""
+
+
+def str2yen(s):
+    if s == "-":
+        return 0
+    else:
+        return int(s)
+
+
+# 出品 {request_time} SELL {user_id} {item_id} {minimum_price} {BIN_price} {end_time}
+def sell(req):
+    # 同じ商品IDの商品がすでにオークションに出品されたことがある場合
+    if req[3] in item_table:
+        print("SELL: this item_id is already in use")
+    else:
+        obj = {
+            "seller": req[2],
+            "min_price": req[4],
+            "BIN_price": req[5],
+            "current_price": "-",
+            "highest_bidder": "-",
+            "end_time": req[6],
+            "bidders": {},
+            "status": "SELL",
+        }
+        item_table[req[3]] = obj
+        print("SELL: accepted")
+
+
+# 出品キャンセル {request_time} SELL_CANCEL {user_id} {item_id}
+def sell_cancel(req):
+    # 商品が現在オークションに出品されていない場合は以下を出力
+    if not req[3] in item_table and not (req[3] in item_table and item_table[req[3]]["SELL"]):
+        print("SELL_CANCEL: this item is currently not for sale")
+    # リクエスト送信者がその商品の出品者と異なる場合以下を出力
+    elif req[2] != item_table[req[3]]["seller"]:
+        print("SELL_CANCEL: user is not the seller of this item")
+    else:
+        # item_table.pop(req[3]) IDは削除しない、重複のチェックに必要
+        item_table[req[3]]["SELL"] = "CANCEL"
+        item_table[req[3]]["bidders"] = {}
+        item_table[req[3]]["current_price"] = "-"
+        print("SELL_CANCEL: accepted")
+    return
+
+
+# 入札 {request_time} BID {user_id} {item_id} {price}
+def bid(req):
+    price = int(req[4])
+    
+    # 商品がオークションに出品されていない場合
+    if not req[3] in item_table and not (req[3] in item_table and item_table[req[3]]["SELL"]):
+        print("BID: this item is currently not for sale")
+    # リクエスト送信者がその出品者である場合
+    elif req[2] == item_table[req[3]]["seller"]:
+        print("BID: user is the seller of this item")
+    # 入札金額がその商品の最低金額より低い場合
+    elif price < str2yen(item_table[req[3]]["min_price"]):
+        print("BID: the bid is lower than the minimum price")
+    # 入札金額がその商品の即決金額よりも高い場合
+    elif item_table[req[3]]["BIN_price"] != "-" and price > str2yen(item_table[req[3]]["BIN_price"]):
+        print("BID: the bid is higher than the BIN price")
+    # 入札金額が現在その参加者の最高入札額よりも低い場合
+    elif price <= str2yen(item_table[req[3]]["current_price"]):
+        print("BID: the price must higher than the user's previous highest bid")
+    else:
+        item_table[req[3]]["current_price"] = price
+        item_table[req[3]]['highest_bidder'] = req[2]
+        item_table[req[3]]["bidders"][req[2]] = price
+        print(
+            f"BID: {item_table[req[3]]['current_price']} {item_table[req[3]]['BIN_price']} {item_table[req[3]]['highest_bidder']}")
+
+        # 即決金額が設定されており、即決金額で正常に入札が行われた場合は終了
+        if str2yen(item_table[req[3]]['current_price']) == str2yen(item_table[req[3]]['BIN_price']):
+            item_table[req[3]]["status"] = "FIN"
+            print(
+                f"AUCTION_FINISHED: {req[0]} {req[3]} {item_table[req[3]]['current_price']} {item_table[req[3]]['BIN_price']} {item_table[req[3]]['highest_bidder']}")
+
+    return
+
+
+# 再計算
+def calc_hihest_bitter(item_id):
+    max_price = "-"
+    heigh_user = "-"
+    for k, v in item_table[item_id]["bidders"].items():
+        if str2yen(v) > str2yen(max_price):
+            heigh_user = k
+            max_price = v
+    item_table[item_id]["heighest_bidder"] = heigh_user
+    item_table[item_id]["current_price"] = max_price
+
+
+# 入札取り消し {request_time} BID_CANCEL {user_id} {item_id}
+def bid_cancel(req):
+    # 商品がオークションに出品されていない場合
+    if not req[3] in item_table and not (req[3] in item_table and item_table[req[3]]["SELL"]):
+        print("BID_CANCEL: this item is currently not for sale")
+    # リクエスト送信者が現在その商品に入札しておらず、自動入札の設定も行っていない場合
+    # 実行
+    else:
+        item_table[req[3]]["current_price"] = "-"
+        item_table[req[3]]["highest_bidder"] = "-"
+        item_table[req[3]]["bidders"].pop(req[2])
+        calc_hihest_bitter(req[3])
+        print(
+            f"BID_CANCEL: { item_table[req[3]]['current_price'] } {item_table[req[3]]['BIN_price']} {item_table[req[3]]['highest_bidder']}")
+        # 取り消しがあった場合は終了
+        item_table[req[3]]["status"] = "FIN"
+        print(
+            f"AUCTION_FINISHED: { item_table[req[3]]['end_time']} {req[3]} {item_table[req[3]]['current_price']} {item_table[req[3]]['BIN_price']} {item_table[req[3]]['highest_bidder']}")
+
+    return
+
+
+"""
+出品の終了
+- 商品の出品が取り消された場合
+- 現在時刻が終了時刻となった場合
+- 即決金額が設定されており、即決金額で正常に入札が行われた場合
+"""
+
+"""
+時刻について
+- その時刻にオークションの終了時刻を迎えた商品が存在する場合、そのオークションの結果を確定し出力
+"""
+"""
+リクエストの処理によってオークションが終了した場合、リクエストの出力の直後にオークション結果の出力を行う
+"""
+
+
+def check_fin_auction(now_time):
+    now_time = datetime.datetime.strptime(now_time, '%Y-%m-%dT%H:%M')
+    fin_item = []
+    for k, v in item_table.items():
+        if not v["status"] == "SELL":
+            continue
+        end_time = datetime.datetime.strptime(v["end_time"], '%Y-%m-%dT%H:%M')
+        if end_time < now_time:
+            fin_item.append([k,end_time])
+    
+    fin_item = sorted(fin_item, key=lambda x: x[1])
+    for _id, time in fin_item:
+        item_table[_id]["status"] = "FIN"
+        print(
+            f"AUCTION_FINISHED: { item_table[_id]['end_time']} {_id} {item_table[_id]['current_price']} {item_table[_id]['BIN_price']} {item_table[_id]['highest_bidder']}")
+    return
+
+
+def main(lines):
+    for i, v in enumerate(lines):
+        request = list(map(str, v.split()))
+        # TODO:その時刻にオークションの終了時刻を迎えた商品が存在する場合、そのオークションの結果を確定し出力
+        check_fin_auction(request[0])
+        if request[1] == "SELL":
+            sell(request)
+        elif request[1] == "SELL_CANCEL":
+            sell_cancel(request)
+        elif request[1] == "BID":
+            bid(request)
+        elif request[1] == "BID_CANCEL":
+            bid_cancel(request)
+    
+
+if __name__ == '__main__':
+    lines = []
+    for l in sys.stdin:
+        lines.append(l.rstrip('\r\n'))
+    main(lines)
